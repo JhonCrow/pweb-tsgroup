@@ -1,0 +1,227 @@
+[
+    {
+        "id": "1",
+        "cedula": "12345679",
+        "nombre": "Camilo",
+        "email": "camilo@hotmail.com",
+        "telefono": "78946123",
+        "fecha_creacion": "26-07-2022",
+        "id_usuario_creacion": "13456789123"
+    },
+    {
+        "id": "2",
+        "cedula": "987654321",
+        "nombre": "Juan",
+        "email": "juan@hotmail.com",
+        "telefono": "1234567852",
+        "fecha_creacion": "25-07-2022",
+        "id_usuario_creacion": "1597532"
+    },
+    {
+        "id": "3",
+        "cedula": "321654987",
+        "nombre": "Jhon",
+        "email": "jhon@hotmail.com",
+        "telefono": "74185293",
+        "fecha_creacion": "24-07-2022",
+        "id_usuario_creacion": "1596687"
+    },
+    {
+        "id": "4",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "5",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "6",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "7",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "8",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "9",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "10",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "11",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "12",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "13",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "14",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "15",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "16",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "17",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "18",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "19",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "20",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "21",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "22",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "23",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "24",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    },
+    {
+        "id": "25",
+        "cedula": "",
+        "nombre": "",
+        "email": "",
+        "telefono": "",
+        "fecha_creacion": "",
+        "id_usuario_creacion": ""
+    }
+]
