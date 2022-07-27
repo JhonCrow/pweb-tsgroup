@@ -2,8 +2,8 @@ const { insertEstudianteService } = require('../Services/InsertEstudiante.servic
 
 const insertEstudianteController = async (req, res) => {
     try {
-        const { id, nombre, cedula, email, telefono, fecha_creacion, id_usuario_creacion } = req.body;
-        const insertAllEstudiante = await insertEstudianteService(id, nombre, cedula, email, telefono, fecha_creacion, id_usuario_creacion);
+        const { nombre, cedula, email, telefono, fecha_creacion, id_usuario_creacion } = req.body;
+        const insertAllEstudiante = await insertEstudianteService(nombre, cedula, email, telefono, fecha_creacion, id_usuario_creacion);
         res.status(200).json(insertAllEstudiante);
     }
     catch (error) {

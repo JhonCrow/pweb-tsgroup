@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "nombre": "Electronica",
+        "descripcion": "El fascinante mundo de la electronica",
+        "fecha_creacion": "10-07-2015",
+        "id_usuario_creacion": "100001"
+    },
+    {
+        "id": "2",
+        "nombre": "Sistemas",
+        "descripcion": "El fascinante mundo de los sistemas",
+        "fecha_creacion": "15-08-2017",
+        "id_usuario_creacion": "200002"
+    },
+    {
+        "id": "3",
+        "nombre": "Negocios",
+        "descripcion": "El fascinante mundo de los negocios",
+        "fecha_creacion": "25-09-2013",
+        "id_usuario_creacion": "300003"
+    },
+    {
+        "id": "4",
+        "nombre": "Medicina",
+        "descripcion": "El fascinante mundo de la medicina",
+        "fecha_creacion": "14-08-206",
+        "id_usuario_creacion": "40004"
+    },
+    {
+        "id": "5",
+        "nombre": "Comunicaciones",
+        "descripcion": "El fascinante mundo de la comunicacion",
+        "fecha_creacion": "02-09-2018",
+        "id_usuario_creacion": "500005"
+    },
+    {
+        "id": "6",
+        "nombre": "Derecho ",
+        "descripcion": "El fascinante mundo del derecho",
+        "fecha_creacion": "30-08-2016",
+        "id_usuario_creacion": "600006"
+    },
+    {
+        "id": "7",
+        "nombre": "Contabilidad",
+        "descripcion": "El fascinante mundo de la contabilidad",
+        "fecha_creacion": "28-09-2019",
+        "id_usuario_creacion": "700007"
+    },
+    {
+        "id": "8",
+        "nombre": "Arte",
+        "descripcion": "El fascinante mundo del arte",
+        "fecha_creacion": "13-06-2017",
+        "id_usuario_creacion": "800008"
+    },
+    {
+        "id": "9",
+        "nombre": "Diseño",
+        "descripcion": "El fascinante mundo del diseño",
+        "fecha_creacion": "29-05-2022",
+        "id_usuario_creacion": "90009"
+    },
+    {
+        "id": "10",
+        "nombre": "Fisica",
+        "descripcion": "El fascinante mundo de la fisica",
+        "fecha_creacion": "14-03-2014",
+        "id_usuario_creacion": "100000010"
+    }
+]
