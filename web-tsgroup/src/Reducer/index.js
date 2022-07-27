@@ -1,7 +1,8 @@
 const initialState = {
     students: [],
     allstudents: [],
-    detail: {}
+    programs: [],
+    allprograms: [],
 };
 
 export default function rootReducer(state = initialState, action) {
@@ -11,6 +12,13 @@ export default function rootReducer(state = initialState, action) {
                 ...state,
                 students: action.payload,
                 allstudents: action.payload
+            };
+
+        case 'GET_PROGRAMS':
+            return {
+                ...state,
+                programs: action.payload,
+                allprograms: action.payload
             };
 
         case 'FILTER_BY_NAME':
