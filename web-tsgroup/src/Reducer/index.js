@@ -32,6 +32,14 @@ export default function rootReducer(state = initialState, action) {
                 students: studentsFilter
             };
 
+        case 'FILTER_BY_PROGRAMS':
+            const allprograms = state.allprograms;
+            const programsFilter = allprograms.filter(p => p.nombre === action.payload)
+            return {
+                ...state,
+                programs: programsFilter
+            }
+
         default:
             return state;
     };

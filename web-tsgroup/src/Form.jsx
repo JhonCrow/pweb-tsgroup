@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
+import { useDispatch } from 'react-redux';
 import { postStudent } from './Actions/index.js';
-//import '../Css/ActivityCreate.css'
+import './form.css';
 
 function validate(input) {
     let errors = {};
@@ -16,12 +16,12 @@ function validate(input) {
     if (!input.cedula) {
         errors.cedula = 'Debe especificar la cedula';
     };
-    if (!input.Email) {
-        errors.Email = 'El email es requerido.';
+    if (!input.email) {
+        errors.email = 'El email es requerido.';
     } else if (input.Email.length > 30) {
-        errors.Email = 'no debe exceder las 30 caracteres';
+        errors.email = 'no debe exceder las 30 caracteres';
     } else if (!/^[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/.test(input.Email)) {
-        errors.Email = 'No es un correo valido';
+        errors.email = 'No es un correo valido';
     }
     if (!input.telefono) {
         errors.telefono = 'Debe especificar el telefono'
@@ -77,7 +77,7 @@ export default function Form() {
     };
 
     return (
-        <div className='activityContainer'>
+        <div className='formContainer'>
             <h1>Agrega un estudiante</h1>
 
             <form onSubmit={e => handleSubmit(e)}>

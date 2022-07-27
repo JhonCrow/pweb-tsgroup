@@ -1,0 +1,22 @@
+.footerContainer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+    height: 80px;
+    background-color: rgb(235, 171, 106);
+}
+
+.bottomContainer {
+    background-color: rgb(235, 171, 106);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.media {
+
+    width: 100px;
+    display: flex;
+    justify-content: space-around;
+}

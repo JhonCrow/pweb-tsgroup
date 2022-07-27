@@ -16,8 +16,6 @@ export function getPrograms() {
     }
 }
 
-
-
 export function filterStudents(name) {
     console.log(name)
     return {
@@ -26,6 +24,13 @@ export function filterStudents(name) {
     };
 };
 
+export function filterPrograms(name) {
+    console.log(name)
+    return {
+        type: 'FILTER_BY_PROGRAMS',
+        payload: name,
+    };
+};
 export function postStudent(payload) {
     return async function () {
         const stu = await axios.post('http://localhost:3000/api/estudiantes', payload);

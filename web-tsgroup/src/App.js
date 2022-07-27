@@ -1,6 +1,7 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
 import Campus from './Campus';
+import Footer from './Footer';
 import Form from './Form';
 import Home from './Home';
 import NavBar from './NavBar';
@@ -17,6 +18,7 @@ function App() {
           <Route path='/program' element={<Programs />} />
           <Route path='/campus' element={<Campus />} />
         </Routes>
+        <Footer />
       </BrowserRouter>
     </div>
   );

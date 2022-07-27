@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
+import { useDispatch } from 'react-redux';
 import { postProgram } from './Actions/index.js';
-//import '../Css/ActivityCreate.css'
 
 function validate(input) {
     let errors = {};
@@ -64,7 +63,7 @@ export default function Programs() {
     };
 
     return (
-        <div className='activityContainer'>
+        <div className='formContainer'>
             <h1>Agrega un programa</h1>
 
             <form onSubmit={e => handleSubmit(e)}>
